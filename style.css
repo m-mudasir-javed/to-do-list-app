@@ -67,6 +67,7 @@ ul li {
   padding: 1.2rem 0.8rem 1.2rem 5rem;
   user-select: none;
   cursor: pointer;
+  color: #fff;
   position: relative;
 }
 
@@ -79,6 +80,7 @@ ul li::before {
   border: 1px solid black;
   top: 1.2rem;
   left: 0.8rem;
+  color: #fff;
 }
 
 ul li.chacked {
