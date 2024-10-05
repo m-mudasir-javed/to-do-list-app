@@ -77,10 +77,9 @@ ul li::before {
   height: 1.5rem;
   width: 1.5rem;
   border-radius: 50%;
-  border: 1px solid black;
+  border: 1px solid white;
   top: 1.2rem;
   left: 0.8rem;
-  color: #fff;
 }
 
 ul li.chacked {
